@@ -1,5 +1,7 @@
 Forked from https://github.com/randomdude/gcc-cross-x86_64-elf
 
+When cloning, make sure to run `git config --global core.autocrlf "input"` beforehand if using Windows!
+
 -- BEGIN FORKED README --
 
 This code was shamelessly taken from https://github.com/beevik/docker - I've changed only about two words in the source. I've changed some deps to come over via HTTPS instead of FTP but that's about it. Thanks to Brett Vickers for the original work.
